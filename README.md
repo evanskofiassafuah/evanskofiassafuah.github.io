@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![GitHub Banner](https://i.imgur.com/Zb0mXdb.png) <!-- You can replace this with your own banner -->
+<img src="truthline.jpg" alt="my logo" width="150"/> <!-- You can replace this with your own banner -->
 
 <h1 align="center">Hi 👋, I'm Evans Kofi Assafuah</h1>
 <h3 align="center">💻 Web Developer | 📱 Mobile App Enthusiast | 🖥 IT Support Specialist</h3>
@@ -40,8 +40,8 @@ I’m a passionate and detail-oriented developer with a love for creating functi
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evanskofiassafuah&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanskofiassafuah&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
