@@ -2,7 +2,7 @@
 <img src="truthline.jpg" alt="my logo" width="150"/> <!-- You can replace this with your own banner -->
 
 <h1 align="center">Hi 👋, I'm Evans Kofi Assafuah</h1>
-<h3 align="center">💻 Web Developer | 📱 Mobile App Enthusiast | 🖥 IT Support Specialist</h3>
+<h3 align="center">💻 Web Developer<br>  📱 Mobile App Enthusiast <br> 🖥 IT Support Specialist</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -12,11 +12,11 @@
 ---
 
 ### 🚀 About Me
-I’m a passionate and detail-oriented developer with a love for creating functional, user-friendly, and visually appealing digital solutions. From designing responsive websites to building dynamic web applications, I thrive on turning ideas into impactful projects.
+I’m a passionate and detail-oriented developer with a love for creating functional, user-friendly and visually appealing digital solutions. From designing responsive websites to building dynamic web applications. I thrive on turning ideas into impactful projects.
 
 - 🌱 Currently learning *Flutter* for mobile apps  
-- 🔧 Skilled in *HTML, CSS, JavaScript, PHP, MySQL*  
-- 📌 Interested in *scalable systems, cybersecurity, and modern web practices*  
+- 🔧 Skilled in *HTML, CSS, Figma, JavaScript, PHP, JAVA, Python, C++,VB.net & MySQL*  
+- 📌 Interested in *scalable systems, cybersecurity and modern web practices*  
 
 ---
 
@@ -28,13 +28,20 @@ I’m a passionate and detail-oriented developer with a love for creating functi
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  <!-- Python -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+</p>
 
 ---
 
 ### 📌 Featured Projects
-- 🛒 *Shopping Cart Web App* – Built with HTML, CSS, JS, PHP, MySQL  
-- 🌍 *NGO Website* – Responsive, donation-ready site with MoMo & Visa integration  
-- 🎓 *Educational Hub* – Student resource portal with timetable, slides, and academic calendar  
+- 🛒 *Shopping Cart Web App* – Built with HTML, CSS, JS, PHP, MySQL<br>
+- 🌍 *NGO Website* – Responsive, donation-ready site with MoMo & Visa integration<br>
+- 📰 *News Hub* - A platform for student to access current & trending news<br>
+- 🎓 *Educational Hub* – Student resource portal with timetable, slides, and academic calendar<br>
 
 ---
 
