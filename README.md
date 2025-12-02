@@ -69,13 +69,13 @@ Currently:
 <tr>
 <td width="50%">
 
-### 🛒 Shopping Cart Web App
+ 🛒 Shopping Cart Web App
 A complete shopping system with cart logic and backend database integration.
 
 </td>
 <td width="50%">
 
-### 🌍 NGO Website
+ 🌍 NGO Website
 Responsive donation platform with MoMo & Visa payment system.
 
 </td>
@@ -84,13 +84,13 @@ Responsive donation platform with MoMo & Visa payment system.
 <tr>
 <td width="50%">
 
-### 📰 News Hub
+ 📰 News Hub
 A real-time campus news platform for students.
 
 </td>
 <td width="50%">
 
-### 🎓 Educational Hub
+ 🎓 Educational Hub
 Student resource system with timetable, slides, and academic calendar.
 
 </td>
