@@ -16,44 +16,87 @@
 ---
 
 ## 🚀 About Me
-I’m a passionate developer who enjoys building clean, responsive, and user-friendly applications.  
-I love transforming ideas into real-world solutions and growing through hands-on projects.
 
-- 🌱 Currently learning **Flutter**
-- 💡 Interested in **cybersecurity** & **scalable systems**
-- 🛠 Focused on **web development, UI design & application logic**
+I’m a results-driven web developer passionate about building clean, user-focused and scalable digital products.  
+I enjoy turning ideas into systems people can actually use.
+
+I focus on:
+- Crafting responsive and modern user interfaces  
+- Writing clean and maintainable code  
+- Solving real-world problems with technology  
+
+Currently:
+- 🌱 Exploring **Flutter** for cross-platform mobile apps  
+- 🔐 Learning the basics of **cybersecurity**  
+- ⚙️ Building systems with performance and scalability in mind
+
 
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-f97316?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-0ea5e9?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/PHP-6366f1?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-38bdf8?style=for-the-badge&logo=mysql&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Flutter-22d3ee?style=for-the-badge&logo=flutter&logoColor=000"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-f43f5e?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-60a5fa?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-3b82f6?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 Shopping Cart Web App  
-Full shopping system with database integration.
+<table>
+<tr>
+<td width="50%">
 
-### 🌍 NGO Website  
-Responsive donation-ready site supporting MoMo & Visa payments.
+### 🛒 Shopping Cart Web App
+A complete shopping system with cart logic and backend database integration.
 
-### 📰 News Hub  
-Real-time campus news platform for students.
+</td>
+<td width="50%">
 
-### 🎓 Educational Hub  
-Student system with timetable, slides & academic calendar.
+### 🌍 NGO Website
+Responsive donation platform with MoMo & Visa payment system.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📰 News Hub
+A real-time campus news platform for students.
+
+</td>
+<td width="50%">
+
+### 🎓 Educational Hub
+Student resource system with timetable, slides, and academic calendar.
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -89,3 +132,15 @@ I'm open to:
   <img src="https://komarev.com/ghpvc/?username=evanskofiassafuah&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+---
+
+<p align="center">
+  <strong>Evans Kofi Assafuah</strong> — Web Developer • Mobile App Developer • IT Support Specialist  
+  <br><br>
+  Building practical systems, one project at a time.<br>
+  Innoving with purpose.
+</p>
+
+<p align="center">
+  🚀 Open for opportunities & collaboration
+</p>
