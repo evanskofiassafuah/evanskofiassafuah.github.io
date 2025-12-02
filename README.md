@@ -65,12 +65,8 @@ I'm open to:
 - Learning opportunities
 
 ---
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanskofiassafuah&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanskofiassafuah&theme=tokyonight"/>
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evanskofiassafuah&theme=tokyonight" alt="GitHub Streak" /></p>
 
 ---
 
@@ -90,5 +86,6 @@ I'm open to:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evanskofiassafuah&label=Profile+Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=evanskofiassafuah&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
+
