@@ -133,10 +133,10 @@ I’m open to:
 
 <div align="center">
 
-### Evans Kofi Assafuah  
-**Web Developer • Mobile App Developer • IT Support Specialist**  
+<h2>Evans Kofi Assafuah</h2>
+<h3>Web Developer • Mobile App Developer • IT Support Specialist</h3><br>
 
 <em>Building practical systems, one project at a time ⌚</em><br>
 <em>Innovating with purpose 🔥<em><br>
 <em>Open for opportunities & collaboration 🚀</em><br>
-</div>
+
