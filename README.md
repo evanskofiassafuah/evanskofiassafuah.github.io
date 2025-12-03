@@ -3,14 +3,18 @@
   <img src="truthline.jpg" alt="Evans Logo" width="220"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Evans Kofi Assafuah</h1>
+<!-- Glowing Name Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=Evans%20Kofi%20Assafuah&height=85&fontSize=38&animation=glow" />
+</p>
+
 <h3 align="center">
   Web Developer • Mobile App Developer • IT Support Specialist
 </h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&width=500&lines=Turning+ideas+into+reality;Building+functional+and+beautiful+apps;Always+learning+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&width=500&lines=Turning+ideas+into+reality;Building+functional+and+beautiful+apps;Always+learning+and+improving" />
 </p>
 
 ---
@@ -29,7 +33,6 @@ Currently:
 - 🌱 Exploring **Flutter** for cross-platform mobile apps  
 - 🔐 Learning the basics of **cybersecurity**  
 - ⚙️ Building systems with performance and scalability in mind
-
 
 ---
 
@@ -60,22 +63,21 @@ Currently:
   <img src="https://img.shields.io/badge/C++-3b82f6?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 📌 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
- 🛒 Shopping Cart Web App
+🛒 **Shopping Cart Web App**  
 A complete shopping system with cart logic and backend database integration.
 
 </td>
 <td width="50%">
 
- 🌍 NGO Website
+🌍 **NGO Website**  
 Responsive donation platform with MoMo & Visa payment system.
 
 </td>
@@ -84,32 +86,64 @@ Responsive donation platform with MoMo & Visa payment system.
 <tr>
 <td width="50%">
 
- 📰 News Hub
-A real-time campus news platform for students.
+💻 **POS App**  
+Responsive POS system for a frozen food shop, built for sales and inventory tracking.
 
 </td>
 <td width="50%">
 
- 🎓 Educational Hub
+📰 **News Hub**  
+A real-time campus news platform for students.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🎓 **Educational Hub**  
 Student resource system with timetable, slides, and academic calendar.
+
+</td>
+<td width="50%">
+
+🌎 **Free Hosting**  
+Static website hosting using GitHub Pages.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+⛪ **Church Website**  
+A modern, responsive church website with well-structured pages.
+
+</td>
+<td width="50%">
+
+🚀 **More Projects Coming**  
+New systems and designs currently in development.
 
 </td>
 </tr>
 </table>
 
-
 ---
 
 ## 🤝 Open to Opportunities
 I'm open to:
-- Internships
-- Freelance work
-- Collaborations
-- Learning opportunities
+- Internships  
+- Freelance work  
+- Collaborations  
+- Learning opportunities  
 
 ---
+
 ## 📊 GitHub Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evanskofiassafuah&theme=tokyonight" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanskofiassafuah&theme=tokyonight" />
+</p>
 
 ---
 
@@ -129,18 +163,18 @@ I'm open to:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evanskofiassafuah&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=evanskofiassafuah&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">
-  <strong>Evans Kofi Assafuah</strong> — Web Developer • Mobile App Developer • IT Support Specialist  
-  <br><br>
-  Building practical systems, one project at a time.<br>
-  Innoving with purpose.
-</p>
+<div align="center">
 
-<p align="center">
-  🚀 Open for opportunities & collaboration
-</p>
+<strong>Evans Kofi Assafuah</strong><br>
+Web Developer • Mobile App Developer • IT Support Specialist  
+<br>
+<em>Building practical systems, one project at a time ⌚</em><br>
+<em>Innovating with purpose 🔥</em><br>
+<em>Open for opportunities & collaboration 🚀</em>
+
+</
