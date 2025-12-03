@@ -1,7 +1,5 @@
 # ✨ TRUTHLine INNOVATIONS
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=100&section=header&text=TRUTHLine%20INNOVATIONS&fontSize=40&fontColor=ffffff&animation=glow" />
-</p>
+
 
 <p align="center">
   <img src="truthline.jpg" alt="Evans Logo" width="220"/>
