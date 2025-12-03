@@ -176,5 +176,4 @@ Web Developer • Mobile App Developer • IT Support Specialist
 <em>Building practical systems, one project at a time ⌚</em><br>
 <em>Innovating with purpose 🔥</em><br>
 <em>Open for opportunities & collaboration 🚀</em>
-
-</
+</div>
