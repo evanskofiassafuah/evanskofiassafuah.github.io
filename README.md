@@ -5,7 +5,7 @@
 
 <!-- Glowing Name Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=Evans%20Kofi%20Assafuah&height=85&fontSize=38&animation=glow" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=TRUTHLine%20INNOVATIONS&height=85&fontSize=38&animation=glow" />
 </p>
 
 <h3 align="center">
@@ -71,13 +71,13 @@ Currently:
 <tr>
 <td width="50%">
 
-🛒 **Shopping Cart Web App**  
+🛒 <b>Shopping Cart Web App</b>  
 A complete shopping system with cart logic and backend database integration.
 
 </td>
 <td width="50%">
 
-🌍 **NGO Website**  
+🌍 <b>NGO Website</b>  
 Responsive donation platform with MoMo & Visa payment system.
 
 </td>
@@ -86,13 +86,13 @@ Responsive donation platform with MoMo & Visa payment system.
 <tr>
 <td width="50%">
 
-💻 **POS App**  
+💻 <b>POS App</b>  
 Responsive POS system for a frozen food shop, built for sales and inventory tracking.
 
 </td>
 <td width="50%">
 
-📰 **News Hub**  
+📰 <b>News Hub</b>  
 A real-time campus news platform for students.
 
 </td>
@@ -101,13 +101,13 @@ A real-time campus news platform for students.
 <tr>
 <td width="50%">
 
-🎓 **Educational Hub**  
+🎓 <b>Educational Hub</b>  
 Student resource system with timetable, slides, and academic calendar.
 
 </td>
 <td width="50%">
 
-🌎 **Free Hosting**  
+🌎 <b>Free Hosting</b>  
 Static website hosting using GitHub Pages.
 
 </td>
@@ -116,13 +116,13 @@ Static website hosting using GitHub Pages.
 <tr>
 <td width="50%">
 
-⛪ **Church Website**  
+⛪ <b>Church Website</b>  
 A modern, responsive church website with well-structured pages.
 
 </td>
 <td width="50%">
 
-🚀 **More Projects Coming**  
+🚀 <b>More Projects Coming</b>  
 New systems and designs currently in development.
 
 </td>
@@ -170,10 +170,15 @@ I'm open to:
 
 <div align="center">
 
-<strong>Evans Kofi Assafuah</strong><br>
+<h2>Evans Kofi Assafuah</h2><br>
 Web Developer • Mobile App Developer • IT Support Specialist  
 <br>
 <em>Building practical systems, one project at a time ⌚</em><br>
 <em>Innovating with purpose 🔥</em><br>
-<em>Open for opportunities & collaboration 🚀</em>
+<em>Open for opportunities & collaboration 🚀</em><br><br>
+
+<p align="center">
+  <a href="mailto:evanskofiassafuah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
