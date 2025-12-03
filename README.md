@@ -1,4 +1,7 @@
 # ✨ TRUTHLine INNOVATIONS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=100&section=header&text=TRUTHLine%20INNOVATIONS&fontSize=40&fontColor=ffffff&animation=glow" />
+</p>
 
 <p align="center">
   <img src="truthline.jpg" alt="Evans Logo" width="220"/>
@@ -135,8 +138,7 @@ I’m open to:
 ### Evans Kofi Assafuah  
 **Web Developer • Mobile App Developer • IT Support Specialist**  
 
-*Building practical systems, one project at a time ⌚*  
-*Innovating with purpose 🔥*  
-*Open for opportunities & collaboration 🚀*  
-
+<em>Building practical systems, one project at a time ⌚</em><br>
+<em>Innovating with purpose 🔥<em><br>
+<em>Open for opportunities & collaboration 🚀</em><br>
 </div>
