@@ -71,14 +71,12 @@ Currently:
 <tr>
 <td width="50%">
 
-🛒 <b>Shopping Cart Web App</b>  
-A complete shopping system with cart logic and backend database integration.
+🛒 <b>Shopping Cart Web App</b><br>A complete shopping system with cart logic and backend database integration.
 
 </td>
 <td width="50%">
 
-🌍 <b>NGO Website</b>  
-Responsive donation platform with MoMo & Visa payment system.
+🌍 <b>NGO Website</b><br>Responsive donation platform with MoMo & Visa payment system.
 
 </td>
 </tr>
@@ -86,14 +84,12 @@ Responsive donation platform with MoMo & Visa payment system.
 <tr>
 <td width="50%">
 
-💻 <b>POS App</b>  
-Responsive POS system for a frozen food shop, built for sales and inventory tracking.
+💻 <b>POS App</b><br>Responsive POS system for a frozen food shop, built for sales and inventory tracking.
 
 </td>
 <td width="50%">
 
-📰 <b>News Hub</b>  
-A real-time campus news platform for students.
+📰 <b>News Hub</b><br>A real-time campus news platform for students.
 
 </td>
 </tr>
@@ -101,14 +97,12 @@ A real-time campus news platform for students.
 <tr>
 <td width="50%">
 
-🎓 <b>Educational Hub</b>  
-Student resource system with timetable, slides, and academic calendar.
+🎓 <b>Educational Hub</b><br>Student resource system with timetable, slides, and academic calendar.
 
 </td>
 <td width="50%">
 
-🌎 <b>Free Hosting</b>  
-Static website hosting using GitHub Pages.
+🌎 <b>Free Hosting</b><br>Static website hosting using GitHub Pages.
 
 </td>
 </tr>
@@ -116,14 +110,12 @@ Static website hosting using GitHub Pages.
 <tr>
 <td width="50%">
 
-⛪ <b>Church Website</b>  
-A modern, responsive church website with well-structured pages.
+⛪ <b>Church Website</b><br>A modern, responsive church website with well-structured pages.
 
 </td>
 <td width="50%">
 
-🚀 <b>More Projects Coming</b>  
-New systems and designs currently in development.
+🚀 <b>More Projects Coming</b><br>New systems and designs currently in development.
 
 </td>
 </tr>
@@ -180,5 +172,4 @@ Web Developer • Mobile App Developer • IT Support Specialist
 <p align="center">
   <a href="mailto:evanskofiassafuah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+  </a></p>
