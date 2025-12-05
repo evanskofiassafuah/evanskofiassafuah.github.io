@@ -14,7 +14,19 @@
 "/>
 
   <br><br>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=linear-gradient(45deg,#6366F1,#8B5CF6,#EC4899,#F59E0B)&text=Evans%20Kofi%20Assafuah&height=90&fontSize=48&animation=glow"/>
+<div style="
+  background: linear-gradient(45deg, #6366F1, #8B5CF6, #EC4899, #F59E0B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 10px #6366F1, 0 0 20px #8B5CF6, 0 0 30px #EC4899, 0 0 40px #F59E0B;
+  animation: glow 2s ease-in-out infinite alternate;
+  font-size: 48px;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+">
+  Evans Kofi Assafuah
+</div>
 </div>
 
 <h3 align="center">
