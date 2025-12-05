@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header"/>
 
 <div align="center">
-  <img src="truthline.jpg" alt="Evans Logo" width="200" style="border-radius:50%; border:5px solid #6366F1; box-shadow: 0 0 30px #6366F1;"/>
+<img src="truthline.jpg" alt="Evans Logo" width="200" style="border:5px solid #6366F1; box-shadow: 0 0 30px #6366F1;"/>
+
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=Evans%20Kofi%20Assafuah&height=90&fontSize=48&animation=glow"/>
 </div>
@@ -86,17 +87,58 @@ I thrive on transforming ideas into *practical systems* that people love to use.
 ---
 
 ## 📌 Featured Projects
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies Used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🛒 <em>Shopping Cart Web App</em></td>
+      <td>Complete shopping system with cart logic & backend integration</td>
+      <td>PHP • MySQL • Bootstrap</td>
+    </tr>
+    <tr>
+      <td>🌍 <em>NGO Website</em></td>
+      <td>Donation platform with MoMo & Visa payment system</td>
+      <td>PHP • Paystack • Tailwind</td>
+    </tr>
+    <tr>
+      <td>💻 <em>POS App</em></td>
+      <td>Frozen food shop POS with sales & inventory tracking</td>
+      <td>PHP • MySQL • JavaScript</td>
+    </tr>
+    <tr>
+      <td>📰 <em>News Hub</em></td>
+      <td>Real-time campus news platform</td>
+      <td>React • Firebase</td>
+    </tr>
+    <tr>
+      <td>🎓 <em>Educational Hub</em></td>
+      <td>Student resource system with timetable & academic calendar</td>
+      <td>PHP • MySQL • Responsive Design</td>
+    </tr>
+    <tr>
+      <td>🌎 <em>Free Hosting</em></td>
+      <td>Static website hosting via GitHub Pages</td>
+      <td>HTML • CSS • GitHub Pages</td>
+    </tr>
+    <tr>
+      <td>⛪ <em>Church Website</em></td>
+      <td>Modern, responsive church site with structured pages</td>
+      <td>HTML • CSS • JavaScript</td>
+    </tr>
+    <tr>
+      <td>🚀 <em>More Projects Coming</em></td>
+      <td>New systems currently in development</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
 
-| Project                        | Description                                                                 | Technologies Used                     |
-|-------------------------------|-----------------------------------------------------------------------------|----------------------------------------|
-| 🛒 *Shopping Cart Web App*      | Complete shopping system with cart logic & backend integration              | PHP • MySQL • Bootstrap                |
-| 🌍 *NGO Website*                | Donation platform with MoMo & Visa payment system                           | PHP • Paystack • Tailwind              |
-| 💻 *POS App*                    | Frozen food shop POS with sales & inventory tracking                        | PHP • MySQL • JavaScript               |
-| 📰 *News Hub*                   | Real-time campus news platform                                              | React • Firebase                       |
-| 🎓 *Educational Hub*            | Student resource system with timetable & academic calendar                  | PHP • MySQL • Responsive Design        |
-| 🌎 *Free Hosting*               | Static website hosting via GitHub Pages                                     | HTML • CSS • GitHub Pages              |
-| ⛪ *Church Website*             | Modern, responsive church site with structured pages                        | HTML • CSS • JavaScript                |
-| 🚀 *More Projects Coming*       | New systems currently in development                                        | —                                      |
 ---
 
 ## 🤝 Open to Opportunities
