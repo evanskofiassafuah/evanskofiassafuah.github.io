@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header"/>
 
 <div align="center">
-<img src="truthline.jpg" alt="Evans Logo" width="200" style="border:5px solid #6366F1; box-shadow: 0 0 30px #6366F1;"/>
+<img src="truthline.jpg" alt="Evans Logo" width="200" style="border:5px solid #gradient&customColorList=12; box-shadow: 0 0 30px #6366F1;"/>
 
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=Evans%20Kofi%20Assafuah&height=90&fontSize=48&animation=glow"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&customColorList=12&text=Evans%20Kofi%20Assafuah&height=90&fontSize=48&animation=glow"/>
 </div>
 
 <h3 align="center">
