@@ -3,27 +3,31 @@
 <div align="center">
 <img src="truthline.jpg" alt="Evans Logo" width="200" style="
   border: 5px solid transparent;
-  border-radius: 10px;
+  border-radius: 15px;
   box-shadow: 
-    0 0 30px #6366F1,
-    0 0 60px #6366F1,
-    0 0 90px rgba(99, 102, 241, 0.5);
+    0 0 20px rgba(59, 130, 246, 0.4),
+    0 0 40px rgba(59, 130, 246, 0.2),
+    0 4px 20px rgba(0, 0, 0, 0.1);
   padding: 5px;
-  background: linear-gradient(45deg, #6366F1, #8B5CF6, #EC4899, #F59E0B);
+  background: linear-gradient(135deg, #3B82F6, #6366F1, #8B5CF6);
   background-clip: padding-box;
-"/>
+  transition: transform 0.3s ease;
+  filter: drop-shadow(0 0 15px rgba(59, 130, 246, 0.4));
+" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 
-  <br><br>
+<br><br>
+
 <div style="
-  background: linear-gradient(45deg, #6366F1, #8B5CF6, #EC4899, #F59E0B);
+  background: linear-gradient(135deg, #3B82F6, #6366F1, #8B5CF6);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-shadow: 0 0 10px #6366F1, 0 0 20px #8B5CF6, 0 0 30px #EC4899, 0 0 40px #F59E0B;
-  animation: glow 2s ease-in-out infinite alternate;
+  background-clip: text;
   font-size: 48px;
-  font-weight: bold;
+  font-weight: 700;
   padding: 10px;
-  border-radius: 10px;
+  letter-spacing: -0.5px;
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  filter: drop-shadow(0 0 10px rgba(99, 102, 241, 0.3));
 ">
   Evans Kofi Assafuah
 </div>
