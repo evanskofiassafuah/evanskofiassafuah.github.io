@@ -1,11 +1,9 @@
-# ✨ TRUTHLine INNOVATIONS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header"/>
 
 <div align="center">
-  <img src="truthline.jpg" alt="Evans Logo" style="max-width:80%;height:auto;"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=Evans%20Kofi%20Assafuah&height=85&fontSize=38&animation=glow" />
+  <img src="truthline.jpg" alt="Evans Logo" width="200" style="border-radius:50%; border:5px solid #6366F1; box-shadow: 0 0 30px #6366F1;"/>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=Evans%20Kofi%20Assafuah&height=90&fontSize=48&animation=glow"/>
 </div>
 
 <h3 align="center">
@@ -13,23 +11,27 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&width=500&lines=Turning+ideas+into+reality;Building+functional+and+beautiful+apps;Always+learning+and+improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;Building+functional+and+beautiful+apps;Always+learning+and+improving" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=evanskofiassafuah&label=Profile+Views&color=blue&style=for-the-badge" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **results-driven developer** passionate about building clean, scalable, and user-focused digital products.  
-I thrive on transforming ideas into **practical systems** that people love to use.
+I’m a *results-driven developer* passionate about building clean, scalable, and user-focused digital products.  
+I thrive on transforming ideas into *practical systems* that people love to use.
 
 - 🎨 Responsive, modern user interfaces  
 - 🧩 Clean, maintainable code  
 - ⚡ Real-world problem solving  
 
-**Currently exploring:**  
-- 🌱 **Flutter** for cross-platform mobile apps  
-- 🔐 Basics of **cybersecurity**  
+*Currently exploring:*  
+- 🌱 Flutter for cross-platform mobile apps  
+- 🔐 Basics of *cybersecurity*  
 - ⚙️ Performance & scalability in system design  
 
 ---
@@ -85,15 +87,16 @@ I thrive on transforming ideas into **practical systems** that people love to us
 
 ## 📌 Featured Projects
 
-- 🛒 **Shopping Cart Web App** — Complete shopping system with cart logic & backend integration  
-- 🌍 **NGO Website** — Donation platform with MoMo & Visa payment system  
-- 💻 **POS App** — Frozen food shop POS with sales & inventory tracking  
-- 📰 **News Hub** — Real-time campus news platform  
-- 🎓 **Educational Hub** — Student resource system with timetable & academic calendar  
-- 🌎 **Free Hosting** — Static website hosting via GitHub Pages  
-- ⛪ **Church Website** — Modern, responsive church site with structured pages  
-- 🚀 **More Projects Coming** — New systems currently in development  
-
+| Project                        | Description                                                                 | Technologies Used                     |
+|-------------------------------|-----------------------------------------------------------------------------|----------------------------------------|
+| 🛒 *Shopping Cart Web App*      | Complete shopping system with cart logic & backend integration              | PHP • MySQL • Bootstrap                |
+| 🌍 *NGO Website*                | Donation platform with MoMo & Visa payment system                           | PHP • Paystack • Tailwind              |
+| 💻 *POS App*                    | Frozen food shop POS with sales & inventory tracking                        | PHP • MySQL • JavaScript               |
+| 📰 *News Hub*                   | Real-time campus news platform                                              | React • Firebase                       |
+| 🎓 *Educational Hub*            | Student resource system with timetable & academic calendar                  | PHP • MySQL • Responsive Design        |
+| 🌎 *Free Hosting*               | Static website hosting via GitHub Pages                                     | HTML • CSS • GitHub Pages              |
+| ⛪ *Church Website*             | Modern, responsive church site with structured pages                        | HTML • CSS • JavaScript                |
+| 🚀 *More Projects Coming*       | New systems currently in development                                        | —                                      |
 ---
 
 ## 🤝 Open to Opportunities
@@ -123,6 +126,7 @@ I’m open to:
 
 <div align="center">
   <a href="mailto:evanskofiassafuah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/233553326180"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/evanskofiassafuah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/evans-kofi-assafuah-361333370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
@@ -130,18 +134,16 @@ I’m open to:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=evanskofiassafuah&label=Profile+Views&color=blue&style=for-the-badge" />
-</div>
-
----
-
-<div align="center">
 
 <h2>Evans Kofi Assafuah</h2>
-<h3>Web Developer • Mobile App Developer • IT Support Specialist</h3><br>
+<h3>Web Developer 🚀• Mobile App Developer 📱• IT Support Specialist 🖥</h3><br>
 
 <em>Building practical systems, one project at a time ⌚</em><br>
 <em>Innovating with purpose 🔥</em><br>
 <em>Open for opportunities & collaboration 🚀</em><br>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
 </div>
