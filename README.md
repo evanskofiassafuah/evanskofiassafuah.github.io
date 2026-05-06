@@ -80,52 +80,37 @@ I’m a passionate and results-driven developer focused on building **modern web
 - ⚡ Performance Optimization
 ---
 
-## 🛠 Tech Stack
-
 ### 🌐 Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-f97316?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-0ea5e9?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</div>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+</p>
 
 ### ⚙️ Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-6366f1?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-60a5fa?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
-</div>
 
-### 🗄️ Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-38bdf8?style=for-the-badge&logo=mysql&logoColor=000"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
+<p align="center">
 
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000"/>
-  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</div>
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,django" />
 
-### 🎨 Design & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-f43f5e?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white"/>
-</div>
+</p>
+
+### 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+
+</p>
+
+### ☁️ Tools & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+
+</p>
 
 ---
 
@@ -175,6 +160,15 @@ I’m a passionate and results-driven developer focused on building **modern web
       <td>HTML • CSS • JavaScript</td>
     </tr>
     <tr>
+      <td>💼 <em>Digital Solutions For MSMEs (FEOGA COMPANY LTD)</em></td>
+      <td>Smart digital solutions for micro, small & medium businesses</td>
+      <td>HTML 5 • Firebase • JS</td>
+    </tr>
+    <tr>
+      <td>🕒 <em>Real-Time Attendance Web App</em></td>
+      <td>Live employee/student attendance tracking system</td>
+      <td>Firebase • API • React • JS • Superbase • Twilio</td>
+    <tr>
       <td>🚀 <em>More Projects Coming</em></td>
       <td>New systems currently in development</td>
       <td>—</td>
@@ -186,11 +180,15 @@ I’m a passionate and results-driven developer focused on building **modern web
 
 ## 🤝 Open to Opportunities
 
-I’m open to:  
-- Internships  
-- Freelance work  
-- Collaborations  
-- Learning opportunities  
+✅ Internship Roles  
+
+✅ Remote Jobs  
+
+✅ Freelance Projects  
+
+✅ Collaborations  
+
+✅ Startup Projects
 
 ---
 
@@ -209,12 +207,17 @@ I’m open to:
 
 ## 📫 Connect With Me
 
-<div align="center">
-  <a href="mailto:evanskofiassafuah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/233553326180"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/evanskofiassafuah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/evans-kofi-assafuah-361333370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+<p align="center">
+
+<a href="mailto:evanskofiassafuah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<a href="https://wa.me/233553326180"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<a href="https://github.com/evanskofiassafuah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/evans-kofi-assafuah-361333370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
 
 ---
 
@@ -230,7 +233,13 @@ I’m open to:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+
+## 🌍 Portfolio
+
+### https://evanskofiassafuah.github.io/
+
+### "Innovating With Purpose 🔥"
+
 </div>
 
-Are there any updates I can add to make it perfect?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=130&section=footer"/>
