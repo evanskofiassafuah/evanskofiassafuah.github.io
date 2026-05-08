@@ -202,13 +202,8 @@ Evans Kofi Assafuah
 
 <div align="center">
 
-## 🌍 Portfolio
 
-<a href="https://evanskofiassafuah.github.io/">
-<img src="https://img.shields.io/badge/View%20Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-### ✨ Innovating With Purpose
+## ✨ Innovating With Purpose
 
 </div>
 
